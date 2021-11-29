@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/J1ksSjpWtEOmattI7/xTvK1nP9yzhm+s+O9IusvLQPilQnz42JfcWIrgJ1NqGpGsrZ9z3BoJFnaOe/gmnIOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lakeitra Coleman\\source\\repos\\MethodExerciseConsole\\MethodExercise\\MethodExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lakeitra Coleman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
